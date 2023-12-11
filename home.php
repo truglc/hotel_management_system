@@ -45,7 +45,7 @@ if($usermail == true){
   <nav>
     <div class="logo">
       <img class="bluebirdlogo" src="./image/bluebirdlogo.png" alt="logo">
-      <p>BLUEBIRD</p>
+      <p>Quản Lí Khách Sạn</p>
     </div>
     <ul>
       <li><a href="#firstsection">Home</a></li>
