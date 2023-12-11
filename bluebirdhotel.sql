@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `tlc`
+-- Database: `bluebirdhotel`
 --
 
 -- --------------------------------------------------------
@@ -151,7 +151,7 @@ CREATE TABLE `signup` (
 -- Dumping data for table `signup`
 --
 INSERT INTO `signup` (`UserID`, `Username`, `Email`, `Password`) VALUES
-(1, 'Tushar Pankhaniya', 'tusharpankhaniya2202@gmail.com', '123');
+(1, 'Tushar Pankhaniya', 't2@gmail.com', '123');
 
 -- --------------------------------------------------------
 
