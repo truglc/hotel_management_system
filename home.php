@@ -283,9 +283,9 @@ if($usermail == true){
 
   <section id="contactus">
     <div class="social">
-      <i class="fa-brands fa-instagram"></i>
-      <i class="fa-brands fa-facebook"></i>
-      <i class="fa-solid fa-envelope"></i>
+    <a href="facebook.com" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+    <a href="facebook.com" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+    <a href="mailto:trunglc9388@gmail.com"><i class="fa-solid fa-envelope"></i></a>
     </div>
     <div class="createdby">
       <h5>Created by @Trunglc</h5>
